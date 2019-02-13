@@ -1,6 +1,6 @@
 # Instabot
 
-## Pre-requisite
+## Requirements
 
  - Linux
  - Google Chrome
